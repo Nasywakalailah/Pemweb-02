@@ -30,10 +30,10 @@
   <div class="col">
     <div class="card h-100">
     <a href="" class="btn">
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/product-5806313-4863042.png" class="card-img-top" alt="">
+      <img src="/img/gambar1.jpg" class="card-img-top" alt="">
       <div class="card-body">
-        <h5 class="card-title">PRODUK</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">HONDA</h5>
+        <p class="card-text">ALL NEW BR-V</p>
       </div>
     </a>
     </div>
@@ -41,10 +41,10 @@
   <div class="col">
     <div class="card h-100">
     <a href="/toko/detail" class="btn">
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/product-5806313-4863042.png" class="card-img-top" alt="">
+      <img src="/img/gambar2.jpg" class="card-img-top" alt="">
       <div class="card-body">
-        <h5 class="card-title">PRODUK</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">DAIHATSU</h5>
+        <p class="card-text">ROCKY</p>
       </div>
     </a>
     </div>
@@ -52,10 +52,10 @@
   <div class="col">
     <div class="card h-100">
     <a href="/toko/detail" class="btn">
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/product-5806313-4863042.png" class="card-img-top" alt="">
+      <img src="/img/gambar3.jpg" class="card-img-top" alt="">
       <div class="card-body">
-        <h5 class="card-title">PRODUK</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">SUZUKI</h5>
+        <p class="card-text">GRAND VITARA</p>
       </div>
     </a>
     </div>
@@ -63,10 +63,10 @@
   <div class="col">
     <div class="card h-100">
     <a href="/toko/detail" class="btn">
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/product-5806313-4863042.png" class="card-img-top" alt="...">
+      <img src="/img/gambar4.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">PRODUK</h5>
-        <p class="card-text">This is a short card.</p>
+        <h5 class="card-title">DAIHATSU</h5>
+        <p class="card-text">GRAN MAX PICK UP</p>
       </div>
     </a>
     </div>
